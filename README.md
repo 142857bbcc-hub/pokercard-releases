@@ -11,14 +11,16 @@ This repository holds the downloadable releases only.
 
 ## Download
 
-Get the latest `BigTwoParlour-x.y.z.jar` from the [Releases page](../../releases/latest).
+**[⬇ Download Big Two Parlour](https://github.com/142857bbcc-hub/big-two-parlour/releases/latest/download/BigTwoParlour.jar)**: always the newest version.
+
+Earlier versions and release notes are on the [Releases page](https://github.com/142857bbcc-hub/big-two-parlour/releases).
 
 ## Run
 
 You need **Java 17 or newer**. If you don't have it, install a free JDK such as [Adoptium Temurin](https://adoptium.net/). Then:
 
 ```
-java -jar BigTwoParlour-1.0.0.jar
+java -jar BigTwoParlour.jar
 ```
 
 On macOS and Windows you can usually double-click the jar instead. Everything, including the card artwork, is inside the one file.
