@@ -11,9 +11,9 @@ This repository holds the downloadable releases only.
 
 ## Download
 
-**[⬇ Download Big Two Parlour](https://github.com/142857bbcc-hub/big-two-parlour/releases/latest/download/BigTwoParlour.jar)**: always the newest version.
+**[⬇ Download Big Two Parlour](https://github.com/142857bbcc-hub/pokercard-releases/releases/latest/download/BigTwoParlour.jar)**: always the newest version.
 
-Earlier versions and release notes are on the [Releases page](https://github.com/142857bbcc-hub/big-two-parlour/releases).
+Earlier versions and release notes are on the [Releases page](https://github.com/142857bbcc-hub/pokercard-releases/releases).
 
 ## Run
 
